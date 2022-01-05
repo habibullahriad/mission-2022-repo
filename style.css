@@ -16,12 +16,12 @@ body{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(red, tomato);
-    padding: 10px 40px;
+    padding: 10px 60px;
     color: white;
     border-radius: 7px;
 }
 .img{
-    width: 55%;
+    width: 30%;
     padding: 10px 20px ;
 
 }
@@ -41,7 +41,17 @@ body{
     margin-right: 2%;
 }
 #b1{
-    background-image: syan;
+    background-color:rgb(230, 212, 179);
+}
+#b2{
+    background-color: rgb(172, 202, 202);
+}
+#b3{
+    background-color: rgb(236, 220, 204);
+}
+.img2{
+    width: 50%;
+    padding: 2%;
 }
 
 
