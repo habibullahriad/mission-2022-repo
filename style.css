@@ -5,10 +5,10 @@ body{
 #h-border{
     border-left: 4px solid;
     padding-left: 5px;
-    border-color: orange;
+    border-color: rgb(248, 192, 88);
 }
 .c{
-    color: rgb(150, 240, 4);
+    color: rgb(247, 230, 0);
 }
 .text-align{
     text-align: center;
@@ -58,11 +58,16 @@ body{
 }
 
 #last{
-    background-color: black;
+    background-color: rgb(25, 238, 220);
 }
 .w{
     color: white;
 
 }
-
-
+.align{
+    text-align:justify;
+}
+#about{
+    background-color: burlywood;
+    border-radius: 3px;
+}
